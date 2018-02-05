@@ -2,9 +2,13 @@
 
 [码农翻身](https://mp.weixin.qq.com/s__biz=MzAxOTc0NzExNg==∣=2665514184&idx=1&sn=3ace64c3a9eba2adf1ef94406e2ebf2b&chksm=80d67c8bb7a1f59d556bd7478626a4674ff07021726f84b4681b41ad7c6dbb4cfcf687dcf00a&mpshare=1&scene=1&srcid=0127X08jlmzh4oOL0l4Bb4L4&key=c0aba21f0a672130309252e18868730c4157fb21cb262c582abbd15444d2b9e2b29b848ee591e36b1733af9e415a17c8b3dfc4c9e4192edc13bf8bd9a060256a04a7fb1a7b51587371acd11aae39431e&ascene=0&uin=MTUzNTIxNDUzOQ%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.1+build%2816B2657%29&version=12020110&nettype=WIFI⟨=zh_CN&fontScale=100&pass_ticket=UwzuNDVYUlL3IKW3vaSyRLhmUJ09yuMoHEGK7aXTKP4EC%2FlwymrQUH638idtF5RJ)
 
+[https://juejin.im/post/59e21d915188257f6970a1e6](https://juejin.im/post/59e21d915188257f6970a1e6)
 
 
-https://juejin.im/post/59e21d915188257f6970a1e6
+
+热点key
+
+http://carlosfu.iteye.com/blog/2269687
 
 
 
