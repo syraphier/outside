@@ -4,7 +4,17 @@
 
 [https://juejin.im/post/59e21d915188257f6970a1e6](https://juejin.im/post/59e21d915188257f6970a1e6)
 
+
+
 热点key
 
 [http://carlosfu.iteye.com/blog/2269687](http://carlosfu.iteye.com/blog/2269678)
+
+
+
+HTTP Cache
+
+https://zhuanlan.zhihu.com/p/26196047
+
+
 
