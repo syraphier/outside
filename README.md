@@ -4,17 +4,17 @@
 
 [https://juejin.im/post/59e21d915188257f6970a1e6](https://juejin.im/post/59e21d915188257f6970a1e6)
 
-
-
 热点key
 
 [http://carlosfu.iteye.com/blog/2269687](http://carlosfu.iteye.com/blog/2269678)
 
-
-
 HTTP Cache
 
-https://zhuanlan.zhihu.com/p/26196047
+[https://zhuanlan.zhihu.com/p/26196047](https://zhuanlan.zhihu.com/p/26196047)
 
 
+
+JVM性能调优监控工具jps、jstack、jmap、jhat、jstat、hprof使用详解 - 优雅先生
+
+https://my.oschina.net/feichexia/blog/196575
 
