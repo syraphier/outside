@@ -18,5 +18,9 @@ JVM性能调优监控工具jps、jstack、jmap、jhat、jstat、hprof使用详�
 
 总
 
-http://carlosfu.iteye.com/blog/2265258
+[http://carlosfu.iteye.com/blog/2265258](http://carlosfu.iteye.com/blog/2265258)
+
+
+
+https://www.cnblogs.com/happy-coder/p/6587092.html
 
